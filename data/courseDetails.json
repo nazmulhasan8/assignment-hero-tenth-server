@@ -1,0 +1,80 @@
+[
+    {
+      "_id": "11",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 9204803,
+      "title": "PROGRAMMING LANGUAGE THEORY",
+      "author": {
+        "name": "Messi Hasan",
+        "published_date": "2022-10-24 18:01:60",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "image_url": "https://thumbs.dreamstime.com/z/source-code-math-ang-blur-green-blue-wall-computer-lcd-screen-mathematical-formulas-calculations-angled-shot-189681838.jpg",
+      "details": "The design and implementation of programming languages, from Fortran and Cobol to Caml and Java, has been one of the key developments in the management of ever more complex computerized systems. Introduction to the Theory of Programming Languages gives the reader the means to discover the tools to think, design, and implement these languages. It proposes a unified vision of the different formalisms that permit definition of a programming language: small steps operational semantics, big steps operational semantics, and denotational semantics, emphasising that all seek to define a relation between three objects: a program, an input value, and an output value. These formalisms are illustrated by presenting the semantics of some typical features of programming languages: functions, recursivity, assignments, records, objects, ... showing that the study of programming languages does not consist of studying languages one after another, but is organized around the features that are present in these various languages. The study of these features leads to the development of evaluators, interpreters and compilers, and also type inference algorithms, for small languages."
+    },
+    {
+        "_id": "22",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 9204803,
+        "title": "Computer Graphics",
+        "author": {
+          "name": "Hasan Ali",
+          "published_date": "2022-10-24 18:01:60",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://thumbs.dreamstime.com/z/plexus-computer-graphics-information-technology-science-background-connected-lines-dots-139684116.jpg",
+        "details": "Computer Graphics involves technology to access. The Process transforms and presents information in a visual form. The role of computer graphics insensible. In today life, computer graphics has now become a common element in user interfaces, T.V. commercial motion pictures.Computer Graphics is the creation of pictures with the help of a computer. The end product of the computer graphics is a picture it may be a business graph, drawing, and engineering.In computer graphics, two or three-dimensional pictures can be created that are used for research. Many hardware devices algorithm has been developing for improving the speed of picture generation with the passes of time. It includes the creation storage of models and image of objects. These models for various fields like engineering, mathematical and so on.Today computer graphics is entirely different from the earlier one. It is not possible. It is an interactive user can control the structure of an object of various input devices."
+      },
+      {
+        "_id": "33",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 9204803,
+        "title": "Human-Computer Interaction",
+        "author": {
+          "name": "Abu Hasan",
+          "published_date": "2022-10-24 18:01:60",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://thumbs.dreamstime.com/z/man-machine-interaction-human-digital-hand-connection-world-144323209.jpg",
+        "details": "HCI (human-computer interaction) is the study of how people interact with computers and to what extent computers are or are not developed for successful interaction with human beings. A significant number of major corporations and academic institutions now study HCI. Historically and with some exceptions, computer system developers have not paid much attention to computer ease-of-use. Many computer users today would argue that computer makers are still not paying enough attention to making their products user-friendly. However, computer system developers might argue that computers are extremely complex products to design and make and that the demand for the services that computers can provide has always outdriven the demand for ease-of-use.One important HCI factor is that different users form different conceptions or mental models about their interactions and have different ways of learning and keeping knowledge and skills (different cognitive styles as in, for example, left-brained and right-brained people). In addition, cultural and national differences play a part. Another consideration in studying or designing HCI is that user interface technology changes rapidly, offering new interaction possibilities to which previous research findings may not apply. Finally, user preferences change as they gradually master new interfaces."
+      },
+      {
+        "_id": "44",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 9204803,
+        "title": "Artificial Intelligence",
+        "author": {
+          "name": "Joy Hasan",
+          "published_date": "2022-10-24 18:01:60",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://thumbs.dreamstime.com/z/ai-artificial-intelligence-machine-learning-big-data-analysis-automation-technology-business-industrial-manufacturing-132528154.jpg",
+        "details": "artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings. The term is frequently applied to the project of developing systems endowed with the intellectual processes characteristic of humans, such as the ability to reason, discover meaning, generalize, or learn from past experience. Since the development of the digital computer in the 1940s, it has been demonstrated that computers can be programmed to carry out very complex tasks—as, for example, discovering proofs for mathematical theorems or playing chess—with great proficiency. Still, despite continuing advances in computer processing speed and memory capacity, there are as yet no programs that can match human flexibility over wider domains or in tasks requiring much everyday knowledge. On the other hand, some programs have attained the performance levels of human experts and professionals in performing certain specific tasks, so that artificial intelligence in this limited sense is found in applications as diverse as medical diagnosis, computer search engines, and voice or handwriting recognition."
+      },
+      {
+        "_id": "55",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 9204803,
+        "title": "Advanced Algorithms and Data Structures",
+        "author": {
+          "name": "Abir Hasan",
+          "published_date": "2022-10-24 18:01:60",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://thumbs.dreamstime.com/z/sign-displaying-automated-data-analysis-business-concept-artificial-intelligence-deep-learning-technology-connecting-hand-243434744.jpg",
+        "details": "As a software engineer, you will encounter countless programming challenges that initially seem confusing, difficult, or even impossible. Don't despair! Many of these new problems already have well-established solutions. Advanced Algorithms and Data Structures teaches you powerful approaches to a wide range of tricky coding challenges that you can adapt and apply to your own applications. Providing a balanced blend of classic, advanced, and new algorithms, this practical guide upgrades your programming toolbox with new perspectives and hands-on techniques.Can you improve the speed and efficiency of your applications without investing in new hardware? Well, yes, you can: Innovations in algorithms and data structures have led to huge advances in application performance. Pick up this book to discover a collection of advanced algorithms that will make you a more effective developer.Advanced Algorithms and Data Structures introduces a collection of algorithms for complex programming challenges in data analysis, machine learning, and graph computing. You’ll discover cutting-edge approaches to a variety of tricky scenarios. You’ll even learn to design your own data structures for projects that require a custom solution."
+      },
+      {
+        "_id": "66",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 9204803,
+        "title": "Hands-On Machine Learning with Scikit-Learn",
+        "author": {
+          "name": "Liton Hasan",
+          "published_date": "2022-10-24 18:01:60",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://thumbs.dreamstime.com/z/woman-demonstrating-machine-learning-model-different-icons-closeup-190880105.jpg",
+        "details": "Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning. Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data. This practical book shows you how.By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each chapter to help you apply what you’ve learned, all you need is programming experience to get started.Explore the machine learning landscape, particularly neural nets.Use Scikit-Learn to track an example machine-learning project end-to-end.Explore several training models, including support vector machines, decision trees, random forests, and ensemble methods.Use the TensorFlow library to build and train neural nets.Dive into neural net architectures, including convolutional nets, recurrent nets, and deep reinforcement learning.Learn techniques for training and scaling deep neural nets."
+      }  
+]
