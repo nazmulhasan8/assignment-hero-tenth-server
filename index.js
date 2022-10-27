@@ -14,7 +14,7 @@ app.get('/courseCategories', (req, res) => {
 });
 
 app.get('/courseDetails', (req, res) =>{
-    res.send(courseDetails);
+    res.send(courseDetailss);
 });
 
 app.get('/courseDetails/:id', (req, res) => {
