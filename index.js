@@ -10,7 +10,7 @@ const courseCategories = require('./data/courseCategories.json');
 const courseDetails = require('./data/courseDetails.json');
 
 app.get('/courseCategories', (req, res) => {
-    res.send(courseCategoriess)
+    res.send(courseCategories)
 });
 
 app.get('/courseDetails', (req, res) =>{
